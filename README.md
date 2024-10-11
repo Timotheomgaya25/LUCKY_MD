@@ -1,5 +1,5 @@
 </h1> 
-<p align="center">𝕃𝕌ℂ𝕂𝕐 𝕄𝔻 𝕍𝟟
+<p align="center">𝕋𝕀𝕄ℕ𝕊𝔸 𝕄𝔻 𝕍𝟟
 
  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=red&size=25&center=true&vCenter=true&width=600&height=100&lines=I'm+Lucky+md+Created+by+Fredie.&heart;++;Self-taught+Back-Created+By,;Fredi+Ezra+Am+The,;Best+Is+Bot+For+You+To,;Deploy..<3"></a>
  <a href="https://whatsapp.com/channel/0029VajweHxKQuJP6qnjLM31/0029VaihcQv84Om8LP59fO3f">
@@ -26,7 +26,7 @@
 ---
 
 <p align="center">
-  <a href="https://github.com/Fred1e/Lucky_md"><b>𝕃𝕌ℂ𝕂𝕐 𝕄𝔻 𝕍𝟟</b></a> 𝙎𝙪𝙥𝙥𝙤𝙧𝙩 𝘿𝙚𝙥𝙡𝙤𝙮 𝙊𝙣...
+  <a href="https://github.com/Fred1e/Lucky_md"><b>𝕋𝕀𝕄ℕ𝕊𝔸 𝕄𝔻 𝕍𝟟</b></a> 𝙎𝙪𝙥𝙥𝙤𝙧𝙩 𝘿𝙚𝙥𝙡𝙤𝙮 𝙊𝙣...
 </p>
 
 <p align="center">
@@ -47,7 +47,7 @@
 
 
 
-## ℍ𝕆𝕎 𝕋𝕆 𝔻𝔼ℙ𝕃𝕆𝕐 𝕃𝕌ℂ𝕂𝕐 𝕄𝔻 𝕍𝟟
+## ℍ𝕆𝕎 𝕋𝕆 𝔻𝔼ℙ𝕃𝕆𝕐 𝕋𝕀𝕄ℕ𝔸𝕊𝔸 𝕄𝔻 𝕍𝟟
 
 
 ## 𝟙.𝔽𝕀ℝ𝕊𝕋 𝕊𝕋𝔼ℙ 
