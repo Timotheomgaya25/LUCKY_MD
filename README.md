@@ -1,7 +1,7 @@
 </h1> 
 <p align="center">𝕋𝕀𝕄ℕ𝕊𝔸 𝕄𝔻 𝕍𝟟
 
- <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=red&size=25&center=true&vCenter=true&width=600&height=100&lines=𝕨𝕖𝕝𝕔𝕠𝕞𝕖'𝕥𝕠+𝕥𝕚𝕞𝕟𝕒𝕤𝕒+𝕞𝕕+Created+by+𝕕𝕖𝕥𝕖𝕔𝕥𝕖𝕕.&𝕙𝕖𝕒𝕣𝕥;++;Self-taught+Back-Created+By,;Fredi+Ezra+Am+The,;Best+Is+Bot+For+You+To,;Deploy..<3"></a>
+ <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=red&size=25&center=true&vCenter=true&width=600&height=100&lines=𝕨𝕖𝕝𝕔𝕠𝕞𝕖'𝕥𝕠+𝕥𝕚𝕞𝕟𝕒𝕤𝕒+𝕞𝕕+𝕚𝕤+𝕥𝕖𝕔𝕙+𝕕𝕖𝕥𝕖𝕔𝕥𝕖𝕕.&𝕙𝕖𝕒𝕣𝕥;++;Self-taught+Back-Created+By,;Fredi+Ezra+Am+The,;Best+Is+Bot+For+You+To,;Deploy..<3"></a>
  <a href="https://whatsapp.com/channel/0029VajweHxKQuJP6qnjLM31/0029VaihcQv84Om8LP59fO3f">
  <img alt="TIMNASA MD 𝕍𝟟" height="300" src="https://files.catbox.moe/xosv2l.jpg">
   
@@ -34,14 +34,25 @@
 </p>
 
 
-
-    
- 
- 
-
-
-
----
+---❒❒❒❒❒❒ *❂̶~𝗧𝗜𝗠𝗡𝗔𝗦𝗔~ ̶𝙈̶𝘿̶ ̶𝙒𝙝𝙖𝙩𝙨𝘼𝙥𝙥 𝘽̶𝙤̶𝙩̶❂*❒❒❒❒ ╭─────❒
+❒ *: welcome online:*
+❒ *`bot online App`*  
+❒ *; this group by MD test bot;*
+❒       
+❒ *`tell amd how to get bot`*
+❒ *"use"* *invite .menu .repo*
+❒*`songs💬 video 💻play`* ❒❂❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❂
+❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❂ 
+❒╭────❂*`links`
+❒*`no links no porno`*
+❒ *`suppot bot only`*
+❒╰═════𝗽𝗼𝘄𝗲𝗿 𝗯𝘆 𝘁𝗶𝗺𝗻𝗮𝘀𝗮 𝗺𝗱════════❂ 
+❒       ♡              ⎙               ⌲ 
+❒ *`react`* *`save`*  *`share`*
+❒
+❒*❂̶𝘽̶𝙔̶ ̶𝙈̶𝘿̶ ̶𝙒𝙝𝙖𝙩𝙨𝘼𝙥𝙥 𝘽̶𝙤̶𝙩̶❂*
+██████╗░░█████╗░████████╗ ██╔══██╗██╔══██╗╚══██╔══╝ ██████╦╝██║░░██║░░░██║░░░ ██╔══██╗██║░░██║░░░██║░░░ ██████╦╝╚█████╔╝░░░██║░
+*❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒*
 
 
 
@@ -51,7 +62,7 @@
 
 
 ## 𝟙.𝔽𝕀ℝ𝕊𝕋 𝕊𝕋𝔼ℙ 
-ғᴏʀᴋ ʟᴜᴄᴋʏ ᴍᴅ ᴠ7 ʀᴇᴘᴏ
+ғᴏʀᴋ 𝗧𝗜𝗠𝗡𝗔𝗦𝗔 𝗠𝗗 𝗩𝟳 ʀᴇᴘᴏ
 
 
 <a href="https://github.com/Fred1e/LUCKY_MD/fork"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/𝔽𝕆ℝ𝕂 𝕋ℍ𝕀𝕊 ℝ𝔼ℙ𝕆-h?color=black&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
@@ -102,7 +113,7 @@ sᴛᴀʀ 🌟 ᴍʏ ʀᴇᴘᴏ ɪғ ʏᴏᴜ ʟɪᴋᴇ ᴛʜɪs ʙᴏᴛ ®�
 
 ## License
 
-The WhatsApp Bot 𝕃𝕌ℂ𝕂𝕐 𝕄𝔻 𝕍𝟟 is released under the [MIT License](https://opensource.org/licenses/MIT).
+The WhatsApp Bot 𝕋𝕀𝕄ℕ𝔸𝕊𝔸 𝕄𝔻 𝕍𝟟 is released under the [MIT License](https://opensource.org/licenses/MIT).
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 🌟 𝕋ℍ𝔸ℕ𝕂 𝕐𝕆𝕌 𝔽𝕆ℝ ℂℍ𝕆𝕆𝕊𝕀ℕ𝔾 TIMNASA🍀_MD 🌟
