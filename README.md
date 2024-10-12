@@ -17,7 +17,7 @@
 <a href="https://github.com/Fred1e/Timnasa_md/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Fred1e/Timnasa_md?label=Watching&style=social"></a>
 
 </p>
-<p align="center"><img src="" alt="Timnasa_md :https://files.catbox.moe/oqpi5b.jpg: Visitor's Count"/></p>
+<p align="center"><img src="" alt="Timnasa_md https://files.catbox.moe/oqpi5b.jpg: Visitor's Count"/></p>
 
 </a>
   <div align="center">
