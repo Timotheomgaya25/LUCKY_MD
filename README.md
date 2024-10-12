@@ -73,7 +73,7 @@ sᴛᴀʀ 🌟 ᴍʏ ʀᴇᴘᴏ ɪғ ʏᴏᴜ ʟɪᴋᴇ ᴛʜɪs ʙᴏᴛ ®�
 ## 𝟚.𝕊𝔼ℂ𝕆ℕ𝔻 𝕊𝕋𝔼ℙ 
 
 
- 𝔾𝔼𝕋 𝕊𝔼𝕊𝕊𝕀𝕆ℕ 𝕀𝔻 𝔹𝕐
+ 𝔾𝔼𝕋 𝕊𝔼𝕊𝕊𝕀𝕆ℕ 𝕀𝔻 𝔹𝕐 𝕋𝕀𝕄ℕ𝔸𝕊𝔸 𝕄𝔻
  
 
 <a href="https://lucky-md-qycm.onrender.com"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/ℚℝ ℂ𝕆𝔻𝔼-h?color=black&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
@@ -124,7 +124,7 @@ The WhatsApp Bot 𝕋𝕀𝕄ℕ𝔸𝕊𝔸 𝕄𝔻 𝕍𝟟 is released under
 
 
  
-★THANK YOU GOD FOR THAT MOMENT🙏. ©
+★THANK YOU GOD FOR THAT MOMENT🙏. © 𝕋𝕀𝕄ℕ𝔸𝕊𝔸 𝕋𝔼ℂℍ
 <a><img src='https://files.catbox.moe/xosv2l.jpg'/></a> 
 
  ##°•°•°•°|°|°|°•°•°|°|°|°|°|°|°|°|°|°|°|°|°|°|°|    
