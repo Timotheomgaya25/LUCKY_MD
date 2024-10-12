@@ -3,7 +3,7 @@
 
  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=red&size=25&center=true&vCenter=true&width=600&height=100&lines=𝕨𝕖𝕝𝕔𝕠𝕞𝕖'𝕥𝕠+𝕥𝕚𝕞𝕟𝕒𝕤𝕒+𝕞𝕕+𝕚𝕤+𝕥𝕖𝕔𝕙+𝕕𝕖𝕥𝕖𝕔𝕥𝕖𝕕.&𝕙𝕖𝕒𝕣𝕥;++;Self-taught+Back-Created+By,;Fredi+Ezra+Am+The,;Best+Is+Bot+For+You+To,;Deploy..<3"></a>
  <a
- <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=red&size=25&center=true&vCenter=true&width=600&height=100&lines=𝕨𝕖𝕝𝕔𝕠𝕞𝕖'𝕥𝕠+𝕥𝕚𝕞𝕟𝕒𝕤𝕒+𝕞𝕕+𝕚𝕤+𝕥𝕖𝕔𝕙+𝕕𝕖𝕥𝕖𝕔𝕥𝕖𝕕.&𝕙𝕖𝕒𝕣𝕥;++;Self-taught+Back-Created+By,;Fredi+Ezra+Am+The,;Best+Is+Bot+For+You+To,;Deploy..<3"></a>
+  href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=red&size=25&center=true&vCenter=true&width=600&height=100&lines=𝕨𝕖𝕝𝕔𝕠𝕞𝕖'𝕥𝕠+𝕥𝕚𝕞𝕟𝕒𝕤𝕒+𝕞𝕕+𝕚𝕤+𝕥𝕖𝕔𝕙+𝕕𝕖𝕥𝕖𝕔𝕥𝕖𝕕.&𝕙𝕖𝕒𝕣𝕥;++;Self-taught+Back-Created+By,;Fredi+Ezra+Am+The,;Best+Is+Bot+For+You+To,;Deploy..<3"></a>
  <a href="https://whatsapp.com/channel/0029VajweHxKQuJP6qnjLM31/0029VaihcQv84Om8LP59fO3f">
  <img alt="TIMNASA MD 𝕍𝟟" height="300" src="https://files.catbox.moe/xosv2l.jpg">
   
