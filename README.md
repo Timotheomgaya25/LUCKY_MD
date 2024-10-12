@@ -2,7 +2,7 @@
 <p align="center">𝕋𝕀𝕄ℕ𝕊𝔸 𝕄𝔻 𝕍𝟟
 
  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=red&size=25&center=true&vCenter=true&width=600&height=100&lines=𝕨𝕖𝕝𝕔𝕠𝕞𝕖'𝕥𝕠+𝕥𝕚𝕞𝕟𝕒𝕤𝕒+𝕞𝕕+𝕚𝕤+𝕥𝕖𝕔𝕙+𝕕𝕖𝕥𝕖𝕔𝕥𝕖𝕕.&𝕙𝕖𝕒𝕣𝕥;++;Self-taught+Back-Created+By,;Fredi+Ezra+Am+The,;Best+Is+Bot+For+You+To,;Deploy..<3"></a>
- <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=red&size=25&center=true&vCenter=true&width=600&height=100&lines=𝘄𝗲𝗹𝗰𝗼𝗺𝗲'𝘁𝗼+𝘁𝗶𝗺𝗻𝗮𝘀𝗮+𝗺𝗱+𝗶𝘀+𝘁𝗲𝗰𝗵+𝗱𝘄𝘁𝗲𝗰𝘁𝗲𝗱+𝗲𝗻𝗷𝗼𝘆+𝘆𝗼𝘂𝗿+𝘄𝗵𝗮𝘁𝘀𝗮𝗽𝗽+𝗳𝗮𝘀𝘁+𝘀𝗽𝗲𝗱👾.&𝕙𝕖𝕒𝕣𝕥;++;Self-taught+Back-Created+By,;Fredi+Ezra+Am+The,;Best+Is+Bot+For+You+To,;Deploy..<3"></a>
+ <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=red&size=25&center=true&vCenter=true&width=600&height=100&lines=𝘄𝗲𝗹𝗰𝗼𝗺𝗲'𝘁𝗼+𝘁𝗶𝗺𝗻𝗮𝘀𝗮+𝗺𝗱+𝗶𝘀+𝘁𝗲𝗰𝗵+𝗱𝗲𝘁𝗲𝗰𝘁𝗲𝗱.&𝕙𝕖𝕒𝕣𝕥;++;Self-taught+Back-Created+By,;Fredi+Ezra+Am+The,;Best+Is+Bot+For+You+To,;Deploy..<3"></a>
  <a href="https://whatsapp.com/channel/0029VajweHxKQuJP6qnjLM31/0029VaihcQv84Om8LP59fO3f">
  <img alt="TIMNASA MD 𝕍𝟟" height="300" src="https://files.catbox.moe/xosv2l.jpg">
   
@@ -10,7 +10,7 @@
 <p align="center">ɪ ɪɴᴛʀᴏᴅᴜᴄᴇ <b>TIMNASA MD 𝕍𝟟</b>, ᴀ ᴘᴏᴡᴇʀғᴜʟ sɪᴍᴘʟᴇ ᴡᴀᴛsᴀᴘᴘ ʙᴏᴛ </p>
 
 </p>
-  <p align=" https://files.catbox.moe/oqpi5b.jpgcenter">
+  <p align="https://files.catbox.moe/oqpi5b.jpgcenter">
 <a href="https://github.com/fred1e?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/Fred1e?label=Followers&style=social"></a>
 <a href="https://github.com/Fred1e/Timnasa_md/stargazers/"><img title="STARS" src="https://img.shields.io/github/stars/Fred1e/Timnasa_md?&style=social"></a>
 <a href="https://github.com/Fred1e/Timnasa_md/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Fred1e/Timnasa_md?style=social"></a>
