@@ -12,7 +12,7 @@ i</h1>
   <p align="center">
 <a href="https://github.com/fred1e?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/Fred1e?label=Followers&style=social"></a>
 <a href="https://github.com/Fred1e/Timnasa_md/stargazers/"><img title="STARS" src="https://img.shields.io/github/stars/Fred1e/Timnasa_md?&style=social"></a>
-<a href="https://github.com/Fred1e/Timnasa_md/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Fred1e/lucky_md?style=social"></a>
+<a href="https://github.com/Fred1e/Timnasa_md/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Fred1e/Timnasa_md?style=social"></a>
 <a href="https://github.com/Fred1e/Timnasa_md/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Fred1e/Timnasa_md?label=Watching&style=social"></a>
 
 </p>
@@ -26,7 +26,7 @@ i</h1>
 ---
 
 <p align="center">
-  <a href="https://github.com/Fred1e/Lucky_md"><b>𝕋𝕀𝕄ℕ𝕊𝔸 𝕄𝔻 𝕍𝟟</b></a> 𝙎𝙪𝙥𝙥𝙤𝙧𝙩 𝘿𝙚𝙥𝙡𝙤𝙮 𝙊𝙣...
+  <a href="https://github.com/Fred1e/Timnasa_md"><b>𝕋𝕀𝕄ℕ𝕊𝔸 𝕄𝔻 𝕍𝟟</b></a> 𝙎𝙪𝙥𝙥𝙤𝙧𝙩 𝘿𝙚𝙥𝙡𝙤𝙮 𝙊𝙣...
 </p>
 
 <p align="center">
@@ -91,7 +91,7 @@ sᴛᴀʀ 🌟 ᴍʏ ʀᴇᴘᴏ ɪғ ʏᴏᴜ ʟɪᴋᴇ ᴛʜɪs ʙᴏᴛ ®�
 
 **2. ɪғ ʏᴏᴜ ʜᴀᴠᴇ ᴀᴄᴄᴏᴜɴᴛ ᴏɴ ʜᴇʀᴏᴋᴜ**       
 <br>
-<a href="https://dashboard.heroku.com/new?template=https://github.com/Fred1e/Lucky_Md/tree/main">
+<a href="https://dashboard.heroku.com/new?template=https://github.com/Fred1e/Timnasa_Md/tree/main">
  <img src="https://img.shields.io/badge/𝔻𝔼ℙ𝕃𝕆𝕐%20𝕋𝕆%20ℍ𝔼ℝ𝕆𝕂𝕌-black?style=for-the-badge&logo=heroku" width="200" height="38.45"/></a></p>
 
 
