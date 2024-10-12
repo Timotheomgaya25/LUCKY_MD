@@ -7,7 +7,7 @@
  <img alt="TIMNASA MD 𝕍𝟟" height="300" src="https://files.catbox.moe/xosv2l.jpg">
   
 </h1> 
-<p align="center">ɪ ɪɴᴛʀᴏᴅᴜᴄᴇ <b>TIMNASA MD 𝕍𝟟</b>, ᴀ ᴘᴏᴡᴇʀғᴜʟ sɪᴍᴘʟᴇ ᴡᴀᴛsᴀᴘᴘ ʙᴏᴛ </p>
+<p align=https://files.catbox.moe/qpm3vh.mp4"center">ɪ ɪɴᴛʀᴏᴅᴜᴄᴇ <b>TIMNASA MD 𝕍𝟟</b>, ᴀ ᴘᴏᴡᴇʀғᴜʟ sɪᴍᴘʟᴇ ᴡᴀᴛsᴀᴘᴘ ʙᴏᴛ </p>
 
 </p>
   <p align="https://files.catbox.moe/oqpi5b.jpgcenter">
