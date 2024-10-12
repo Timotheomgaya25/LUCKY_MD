@@ -102,11 +102,11 @@ sᴛᴀʀ 🌟 ᴍʏ ʀᴇᴘᴏ ɪғ ʏᴏᴜ ʟɪᴋᴇ ᴛʜɪs ʙᴏᴛ ®�
 
 ℂ𝕆ℕ𝕋𝔸ℂ𝕋 𝔻𝔼𝕍𝔼𝕃𝕆ℙ𝔼ℝ 𝕆ℕ 𝕎ℍ𝔸𝕋𝕊𝔸ℙℙ 
 
-𝕎𝔸𝕋𝕊𝔸ℙℙ 𝕄𝔼
+𝕎𝔸𝕋𝕊𝔸ℙℙ 𝕄𝔼 ℂ𝕆ℕ𝕋𝔸ℂ𝕋
 <a href="https://wa.me/message/J2ZL2GNK4GIUA1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="255784766591" height="60" width="70" /></a>
 
 𝕎𝔸𝕋𝕊𝔸ℙℙ 𝔾ℝ𝕆𝕌ℙ 𝕋𝕀𝕄ℕ𝔸𝕊𝔸 𝕄𝔻
-<a href="https://whatsapp.com/channel/0029VajweHxKQuJP6qnjLM31/0029VaihcQv84Om8LP59fO3f" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="fredietech" height="60" width="70" /></a>
+<a href="https://chat.whatsapp.com/BM7F8CC4yMO9iJynKkiflU/0029VajweHxKQuJP6qnjLM31/0029VaihcQv84Om8LP59fO3f" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="fredietech" height="60" width="70" /></a>
 𝕎𝔸𝕋𝕊𝔸ℙℙ ℂℍ𝔸ℕℕ𝔼𝕃 𝕋𝕀𝕄ℕ𝔸𝕊𝔸 𝕄𝔻
 <a href="https://whatsapp.com/channel/0029VajweHxKQuJP6qnjLM31/0029VaihcQv84Om8LP59fO3f" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="fredietech" height="60" width="70" /></a>
 
