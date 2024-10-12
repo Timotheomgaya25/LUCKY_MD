@@ -34,7 +34,7 @@ i</h1>
 </p>
 
 
----❒❒❒❒❒❒ *❂̶~𝗧𝗜𝗠𝗡𝗔𝗦𝗔~ ̶𝙈̶𝘿̶ ̶𝙒𝙝𝙖𝙩𝙨𝘼𝙥𝙥 𝘽̶𝙤̶𝙩̶❂*❒❒❒❒ ╭─────❒
+---❒❒❒❒❒❒ *❂̶~💥𝗧𝗜𝗠𝗡𝗔𝗦𝗔💥~ ̶𝙈̶𝘿̶ ̶𝙒𝙝𝙖𝙩𝙨𝘼𝙥𝙥 𝘽̶𝙤̶𝙩̶❂*❒❒❒❒ ╭─────❒
 ❒ *: welcome online:*
 ❒ *`bot online App`*  
 ❒ *; this group by MD test bot;*
@@ -46,7 +46,7 @@ i</h1>
 ❒╭────❂*`links`
 ❒*`no links no porno`*
 ❒ *`suppot bot only`*
-❒╰═════𝗽𝗼𝘄𝗲𝗿 𝗯𝘆 𝘁𝗶𝗺𝗻𝗮𝘀𝗮 𝗺𝗱════════❂ 
+❒╰═════💥𝗽𝗼𝘄𝗲𝗿 𝗯𝘆 𝘁𝗶𝗺𝗻𝗮𝘀𝗮 𝗺𝗱💥════════❂ 
 ❒       ♡              ⎙               ⌲ 
 ❒ *`react`* *`save`*  *`share`*
 ❒
@@ -58,10 +58,10 @@ i</h1>
 
 
 
-## ℍ𝕆𝕎 𝕋𝕆 𝔻𝔼ℙ𝕃𝕆𝕐 𝕋𝕀𝕄ℕ𝔸𝕊𝔸 𝕄𝔻 𝕍𝟟
+#🌏# ℍ𝕆𝕎 𝕋𝕆 𝔻𝔼ℙ𝕃𝕆𝕐 𝕋𝕀𝕄ℕ𝔸𝕊𝔸 𝕄𝔻 𝕍𝟟
 
 
-## 𝟙.𝔽𝕀ℝ𝕊𝕋 𝕊𝕋𝔼ℙ 
+#🌎# 𝟙.𝔽𝕀ℝ𝕊𝕋 𝕊𝕋𝔼ℙ 
 ғᴏʀᴋ 𝗧𝗜𝗠𝗡𝗔𝗦𝗔 𝗠𝗗 𝗩𝟳 ʀᴇᴘᴏ
 
 
@@ -70,7 +70,7 @@ i</h1>
 sᴛᴀʀ 🌟 ᴍʏ ʀᴇᴘᴏ ɪғ ʏᴏᴜ ʟɪᴋᴇ ᴛʜɪs ʙᴏᴛ ®️
 
 
-## 𝟚.𝕊𝔼ℂ𝕆ℕ𝔻 𝕊𝕋𝔼ℙ 
+#🌎# 𝟚.𝕊𝔼ℂ𝕆ℕ𝔻 𝕊𝕋𝔼ℙ 
 
 
  𝔾𝔼𝕋 𝕊𝔼𝕊𝕊𝕀𝕆ℕ 𝕀𝔻 𝔹𝕐 𝕋𝕀𝕄ℕ𝔸𝕊𝔸 𝕄𝔻
@@ -83,7 +83,7 @@ sᴛᴀʀ 🌟 ᴍʏ ʀᴇᴘᴏ ɪғ ʏᴏᴜ ʟɪᴋᴇ ᴛʜɪs ʙᴏᴛ ®�
 <a href="https://andbad-qr.onrender.com/"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/𝕊𝕀𝕋𝔼 𝔽𝕆ℝ ℙ𝔸𝕀ℝ-h?color=black&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
 
 
-## 𝟛.𝕋ℍ𝕀ℝ𝔻 𝕊𝕋𝔼ℙ 
+#🌍# 𝟛.𝕋ℍ𝕀ℝ𝔻 𝕊𝕋𝔼ℙ 
 **1. ɪғ ʏᴏᴜ ᴅᴏɴ'ᴛ ʜᴀᴠᴇ ᴀᴄᴄᴏᴜɴᴛ ᴏɴ ʜᴇʀᴏᴋᴜ**
 
 <a href="https://signup.heroku.com">
@@ -95,7 +95,7 @@ sᴛᴀʀ 🌟 ᴍʏ ʀᴇᴘᴏ ɪғ ʏᴏᴜ ʟɪᴋᴇ ᴛʜɪs ʙᴏᴛ ®�
  <img src="https://img.shields.io/badge/𝔻𝔼ℙ𝕃𝕆𝕐%20𝕋𝕆%20ℍ𝔼ℝ𝕆𝕂𝕌-black?style=for-the-badge&logo=heroku" width="200" height="38.45"/></a></p>
 
 
-##
+#🌎#🌍🌎🌏🌐
 
 
 
@@ -112,9 +112,9 @@ sᴛᴀʀ 🌟 ᴍʏ ʀᴇᴘᴏ ɪғ ʏᴏᴜ ʟɪᴋᴇ ᴛʜɪs ʙᴏᴛ ®�
 
 
 ## License
-
-The WhatsApp Bot 𝕋𝕀𝕄ℕ𝔸𝕊𝔸 𝕄𝔻 𝕍𝟟 is released under the [MIT License](https://opensource.org/licenses/MIT+). 
-<a><img src=''/></a>
+🌍around
+The WhatsApp Bot 𝕋𝕀𝕄ℕ𝔸𝕊𝔸 𝕄𝔻 𝕍𝟟 is released under the [MIT License](https:/maneno+meng/opensource.org/licenses/MIT+). 
+<a><img src='maneno+mengi+'/></a>
 
 🌟 𝕋ℍ𝔸ℕ𝕂 𝕐𝕆𝕌 𝔽𝕆ℝ ℂℍ𝕆𝕆𝕊𝕀ℕ𝔾 TIMNASA🍀_MD 🌟
 
