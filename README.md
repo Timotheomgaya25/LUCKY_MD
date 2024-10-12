@@ -16,7 +16,7 @@
 <a href="https://github.com/Fred1e/Timnasa_md/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Fred1e/Timnasa_md?style=social"></a>
 <a href="https://github.com/Fred1e/Timnasa_md/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Fred1e/Timnasa_md?label=Watching&style=social"></a>
 
- <img alt="TIMNASA MD 𝕍𝟟" height="300" src="https://files.catbox.moe/xosv2l.jpg">
+ <img alt="TIMNASA MD 𝕍𝟟" height="300" src="https://files.catbox.moe/oqpi5b.jpg">
   
 </a>
   <div align="center">
