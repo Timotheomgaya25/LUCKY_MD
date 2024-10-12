@@ -16,9 +16,7 @@
 <a href="https://github.com/Fred1e/Timnasa_md/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Fred1e/Timnasa_md?style=social"></a>
 <a href="https://github.com/Fred1e/Timnasa_md/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Fred1e/Timnasa_md?label=Watching&style=social"></a>
 
-</p>
-<p align="center"><img src="" alt="Timnasa_md https://files.catbox.moe/oqpi5b.jpg: Visitor's Count"/></p>
-
+☆☆
 </a>
   <div align="center">
   <img src="https://spogit.vercel.app/api?theme=dark&black=true&scan=true" alt="Widget with the current Spotify song"  />
