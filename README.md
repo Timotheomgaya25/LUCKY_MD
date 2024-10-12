@@ -9,7 +9,7 @@ i</h1>
 <p align="center">ɪ ɪɴᴛʀᴏᴅᴜᴄᴇ <b>TIMNASA MD 𝕍𝟟</b>, ᴀ ᴘᴏᴡᴇʀғᴜʟ sɪᴍᴘʟᴇ ᴡᴀᴛsᴀᴘᴘ ʙᴏᴛ </p>
 
 </p>
-  <p align="center">
+  <p align="https://files.catbox.moe/oqpi5b.jpgcenter">
 <a href="https://github.com/fred1e?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/Fred1e?label=Followers&style=social"></a>
 <a href="https://github.com/Fred1e/Timnasa_md/stargazers/"><img title="STARS" src="https://img.shields.io/github/stars/Fred1e/Timnasa_md?&style=social"></a>
 <a href="https://github.com/Fred1e/Timnasa_md/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Fred1e/Timnasa_md?style=social"></a>
