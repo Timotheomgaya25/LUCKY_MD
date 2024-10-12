@@ -113,8 +113,8 @@ sᴛᴀʀ 🌟 ᴍʏ ʀᴇᴘᴏ ɪғ ʏᴏᴜ ʟɪᴋᴇ ᴛʜɪs ʙᴏᴛ ®�
 
 ## License
 
-The WhatsApp Bot 𝕋𝕀𝕄ℕ𝔸𝕊𝔸 𝕄𝔻 𝕍𝟟 is released under the [MIT License](https://opensource.org/licenses/MIT+). TIMNASA-MD 
-<a><img src=''/></a>𝗧𝗜𝗠𝗡𝗔𝗦𝗔
+The WhatsApp Bot 𝕋𝕀𝕄ℕ𝔸𝕊𝔸 𝕄𝔻 𝕍𝟟 is released under the [MIT License](https://opensource.org/licenses/MIT+). 
+<a><img src=''/></a>
 
 🌟 𝕋ℍ𝔸ℕ𝕂 𝕐𝕆𝕌 𝔽𝕆ℝ ℂℍ𝕆𝕆𝕊𝕀ℕ𝔾 TIMNASA🍀_MD 🌟
 
