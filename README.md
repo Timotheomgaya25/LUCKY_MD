@@ -16,7 +16,7 @@ i</h1>
 <a href="https://github.com/Fred1e/lucky_md/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Fred1e/lucky_md?label=Watching&style=social"></a>
 
 </p>
-<p align="center"><img src="https://files.catbox.moe/xosv2l.jpg" alt="Lucky_md :: Visitor's Count"/></p>
+<p align="center"><img src="" alt="Lucky_md :: Visitor's Count"/></p>
 
 </a>
   <div align="center">
