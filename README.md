@@ -11,10 +11,10 @@
 
 </p>
   <p align="https://files.catbox.moe/oqpi5b.jpgcenter">
-<a href="https://github.com/fred1e?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/Fred1e?label=Followers&style=social"></a>
-<a href="https://github.com/Fred1e/Timnasa_md/stargazers/"><img title="STARS" src="https://img.shields.io/github/stars/Fred1e/Timnasa_md?&style=social"></a>
-<a href="https://github.com/Fred1e/Timnasa_md/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Fred1e/Timnasa_md?style=social"></a>
-<a href="https://github.com/Fred1e/Timnasa_md/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Fred1e/Timnasa_md?label=Watching&style=social"></a>
+<a href="https://github.com/Timotheomgaya25?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/Fred1e?label=Followers&style=social"></a>
+<a href="https://github.com/Timotheomgaya25/Timnasa_md/stargazers/"><img title="STARS" src="https://img.shields.io/github/stars/Fred1e/Timnasa_md?&style=social"></a>
+<a href="https://github.com/Timotheomgaya25/Timnasa_md/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Fred1e/Timnasa_md?style=social"></a>
+<a href="https://github.com/Timotheomgaya25/Timnasa_md/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Fred1e/Timnasa_md?label=Watching&style=social"></a>
 
  <img alt="TIMNASA MD 𝕍𝟟" height="300" src="https://files.catbox.moe/oqpi5b.jpg">
   
@@ -26,7 +26,7 @@
 ---
 
 <p align="center">
-  <a href="https://github.com/Fred1e/Timnasa_md"><b>𝕋𝕀𝕄ℕ𝕊𝔸 𝕄𝔻 𝕍𝟟</b></a> 𝙎𝙪𝙥𝙥𝙤𝙧𝙩 𝘿𝙚𝙥𝙡𝙤𝙮 𝙊𝙣...
+  <a href="https://github.com/Timotheomgaya25/Timnasa_md"><b>𝕋𝕀𝕄ℕ𝕊𝔸 𝕄𝔻 𝕍𝟟</b></a> 𝙎𝙪𝙥𝙥𝙤𝙧𝙩 𝘿𝙚𝙥𝙡𝙤𝙮 𝙊𝙣...
 </p>
 
 <p align="center">
@@ -65,7 +65,7 @@
 ғᴏʀᴋ 𝗧𝗜𝗠𝗡𝗔𝗦𝗔 𝗠𝗗 𝗩𝟳 ʀᴇᴘᴏ
 
 
-<a href="https://github.com/Fred1e/TIMNASA_MD/fork"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/𝔽𝕆ℝ𝕂 𝕋ℍ𝕀𝕊 ℝ𝔼ℙ𝕆-h?color=black&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
+<a href="https://github.com/Timotheomgaya25/TIMNASA_MD/fork"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/𝔽𝕆ℝ𝕂 𝕋ℍ𝕀𝕊 ℝ𝔼ℙ𝕆-h?color=black&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
 
 sᴛᴀʀ 🌟 ᴍʏ ʀᴇᴘᴏ ɪғ ʏᴏᴜ ʟɪᴋᴇ ᴛʜɪs ʙᴏᴛ ®️
 
@@ -80,7 +80,7 @@ sᴛᴀʀ 🌟 ᴍʏ ʀᴇᴘᴏ ɪғ ʏᴏᴜ ʟɪᴋᴇ ᴛʜɪs ʙᴏᴛ ®�
 
 
  
-<a href="https://andbad-qr.onrender.com/"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/𝕊𝕀𝕋𝔼 𝔽𝕆ℝ ℙ𝔸𝕀ℝ-h?color=black&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
+<a href="https://fredietech.onrender.com/"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/𝕊𝕀𝕋𝔼 𝔽𝕆ℝ ℙ𝔸𝕀ℝ-h?color=black&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
 
 
 ## 𝟛.𝕋ℍ𝕀ℝ𝔻 𝕊𝕋𝔼ℙ 
